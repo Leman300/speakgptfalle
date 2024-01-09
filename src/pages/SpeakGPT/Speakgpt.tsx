@@ -70,7 +70,6 @@ const Speakgpt = () => {
           <div className="flex items-center justify-between w-full p-5 my-4">
             <button
               type="button"
-              aria-label="button"
               className="flex items-center w-9/12 px-2 py-1 text-gray-300 transition border border-gray-500 border-solid rounded-lg text-md xl:text-lg pe-4 hover:bg-gray-700"
             >
               <GoPlus /> &nbsp; Nowy czat
