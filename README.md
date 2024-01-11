@@ -3,7 +3,7 @@
 <p align="center">Welcome to the whimsical world of SpeakGPT & FALL-E – the ChatGpt and DALL-E clone | where bots chat, creativity flows, and imagination takes flight!</p>
 
 <div align="center">
-  <img width="80%" src="https://github.com/Leman300/speakgptfalle/tree/main/public/homepage-screenshot.png" alt="SpeakGPT & FALL-E preview" />
+  <img width="80%" src="https://github.com/Leman300/speakgptfalle/blob/main/public/homepage-screenshot.png" alt="SpeakGPT & FALL-E preview" />
 </div>
 
 ## 🌟 Key Features:
